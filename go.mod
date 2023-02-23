@@ -19,6 +19,6 @@ require (
 	github.com/spf13/pflag v1.0.3
 	github.com/stretchr/testify v1.2.2
 	github.com/unrolled/render v0.0.0-20171006150303-32bf1ea2a39e
-	golang.org/x/net v0.0.0-20180811021610-c39426892332 // indirect
-	golang.org/x/tools v0.0.0-20171010174739-e4b401d06e5e
+	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/tools v0.1.12
 )
